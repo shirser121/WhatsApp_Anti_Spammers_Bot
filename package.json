@@ -1,12 +1,12 @@
 {
   "name": "anti_spammers_bot",
   "version": "1.0.0",
-  "description": "",
+  "description": "WhatsApp bot to stop spammers",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [],
-  "author": "",
+  "keywords": ["WhatsApp", "whatsapp-web.js", "spam"],
+  "author": "shirser121",
   "license": "ISC"
 }
